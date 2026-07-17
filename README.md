@@ -12,7 +12,7 @@ A modern and responsive React Calendar Widget built for managing dentist appoint
 
 ## 📂 GitHub Repository
 https://github.com/sandip-kumar-jha/react-calendar-widget-dentist/
- ![Uploading Screenshot 2026-07-17 162714.png…]()
+
 
 
 ---
@@ -24,6 +24,7 @@ https://github.com/sandip-kumar-jha/react-calendar-widget-dentist/
 - Appointment List
 - Responsive Design
 - Clean Corporate UI
+ <img width="1906" height="870" alt="Screenshot 2026-07-17 162714" src="https://github.com/user-attachments/assets/9ba5cfd3-ca9d-4079-9ea6-308009ab28c0" />
 
 ---
 
