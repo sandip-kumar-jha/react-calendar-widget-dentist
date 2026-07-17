@@ -6,7 +6,7 @@ A modern and responsive React Calendar Widget built for managing dentist appoint
 
 ## 🚀 Live Demo
 
-
+https://admirable-gumption-8ae622.netlify.app/
 
 ---
 
